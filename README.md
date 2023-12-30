@@ -13,7 +13,7 @@ Here I extracted the xpath of the number 1 news website in Nigeria(Vanguard News
 
 -pyinstaller
 
- to install exe file, go to the directory where Vanguard_Today.py is located
+ To install exe file, go to the directory where Vanguard_Today.py is located
  open your terminal and input "pyinstaller --onefile Vanguard_Today.py"
  press enter and in a minutes your exe file will be created and be ready to be ran.
 
